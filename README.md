@@ -47,3 +47,7 @@ jobs:
           input-2: another-value
           input-3: something-else
 ```
+
+## License
+
+MIT
