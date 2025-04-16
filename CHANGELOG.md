@@ -1,31 +1,26 @@
 # Changelog
 
-## [1.0.2] - 2025-04-08
-
-### Added Dependabot template
-
-- Added a dependabot template .github/dependabot.yaml
-
-### Fixed
-
-- NA
-
-### Changed
-
-- NA
-
 ---
 
-## [1.0.1] - 2025-04-04
+## [1.0.0] - 2025-04-16
 
-### Added pre-commit hooks
+### 🎉 Initial Release
 
-- Added the `pre-commit` and `commit-msg` hooks
+- Initial release of the repository.
+- Included core workflows, README, and examples for reusable actions
 
----
+### 🚀 Added
 
-## [1.0.0] - 2025-03-31
+- Added support for dynamic GitHub Action inputs using environment variables
+- Introduced CloudFormation linting step with GitHub summary output
+- Integrated reusable workflow template for CI builds
 
-### Initial version created
+### 🐛 Fixed
 
-- GitHub Template repository for Composite Action
+- Resolved issue with missing environment variables in reusable workflows
+- Fixed invalid JSON output error in `detect-services` job
+
+### 🔄 Changed
+
+- Updated default AWS region to `us-east-1` for consistency
+- Refactored Lambda and Glue job builders into separate parallel jobs
