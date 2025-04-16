@@ -5,6 +5,7 @@ First off, thank you for considering contributing to our project! We’re excite
 ## How Can I Help?
 
 There are many ways you can help:
+
 - Reporting bugs
 - Suggesting features
 - Writing documentation

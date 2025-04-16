@@ -1,12 +1,12 @@
-![](https://img.shields.io/github/commit-activity/t/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![](https://img.shields.io/github/last-commit/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![](https://img.shields.io/github/release-date/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![](https://img.shields.io/github/repo-size/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![](https://img.shields.io/github/directory-file-count/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![](https://img.shields.io/github/issues/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![](https://img.shields.io/github/languages/top/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![](https://img.shields.io/github/commit-activity/m/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/06e35985280456b113298ed56c626e73/raw/github-action-template.json?)
+# GitHub Action Template Repository
 
-# GitHub Template Repository - Composite Action
+![Commit Activity](https://img.shields.io/github/commit-activity/t/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![Last Commit](https://img.shields.io/github/last-commit/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![Release Date](https://img.shields.io/github/release-date/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![Repo Size](https://img.shields.io/github/repo-size/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![File Count](https://img.shields.io/github/directory-file-count/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![Issues](https://img.shields.io/github/issues/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![Top Language](https://img.shields.io/github/languages/top/subhamay-bhattacharyya-gha/github-action-template)&nbsp;![Custom Endpoint](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/06e35985280456b113298ed56c626e73/raw/github-action-template.json?)
 
 A Template GitHub Repository to be used to create a composite action.
 
-# Action Name
+## Action Name
 
-**Action Description**
+### Action Description
 
 This GitHub Action provides a reusable composite workflow that sets up Python and interacts with the GitHub API to post a comment on an issue, including a link to a created branch.
 
