@@ -22,7 +22,7 @@
     }
   },
   "release": {
-    "extends": "./release.config.js"
+    "extends": "./scripts/plugins/release.config.js"
   },
   "repository": {
     "type": "git",
