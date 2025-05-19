@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/subhamay-bhattacharyya-gha/github-action-template/compare/v1.0.0...v1.1.0) (2025-05-19)
+
+
+### Features
+
+* add workflow to auto create branches on issue assignment ([c598e00](https://github.com/subhamay-bhattacharyya-gha/github-action-template/commit/c598e002938006d48354017d1131d1f43e378393))
+
 # 1.0.0 (2025-05-18)
 
 
