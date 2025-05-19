@@ -5,6 +5,10 @@ on:
   issues:
     types: [assigned]
 
+permissions:
+  contents: write
+  issues: write
+  
 jobs:
   create-feature-branch:
     name: "Create Feature Branch"
