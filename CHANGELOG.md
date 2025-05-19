@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/subhamay-bhattacharyya-gha/github-action-template/compare/v1.1.0...v1.1.1) (2025-05-19)
+
+
+### Bug Fixes
+
+* add missing permissions for issue assignment workflow ([6c1c99c](https://github.com/subhamay-bhattacharyya-gha/github-action-template/commit/6c1c99cb15f3df2cda6f7e8ea385447d43011bd7))
+
 # [1.1.0](https://github.com/subhamay-bhattacharyya-gha/github-action-template/compare/v1.0.0...v1.1.0) (2025-05-19)
 
 
