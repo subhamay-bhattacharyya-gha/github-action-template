@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/subhamay-bhattacharyya-gha/github-action-template/compare/v1.1.1...v1.1.2) (2025-05-21)
+
+
+### Bug Fixes
+
+* update devcontainer configuration to include Node.js feature ([a6d9d47](https://github.com/subhamay-bhattacharyya-gha/github-action-template/commit/a6d9d478096bf3f7a94f5fd44e26c3deb6e2611c))
+
 ## [1.1.1](https://github.com/subhamay-bhattacharyya-gha/github-action-template/compare/v1.1.0...v1.1.1) (2025-05-19)
 
 
