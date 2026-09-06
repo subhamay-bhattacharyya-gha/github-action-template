@@ -29,6 +29,10 @@ This is a **GitHub Action template repository** that serves as a base for creati
 │   ├── release.yaml              # Semantic release on push to main
 │   ├── create-branch.yaml        # Auto-create feature branches
 │   └── notify.yaml               # Notification workflow
+├── ISSUE_TEMPLATE/
+│   ├── bug_report.md             # Bug report issue template
+│   └── feature_request.md        # Feature request issue template
+├── PULL_REQUEST_TEMPLATE.md      # Pull request template with guidelines
 ├── CODEOWNERS                    # Code ownership assignments
 └── dependabot.yaml               # Dependency update configuration
 scripts/plugins/
